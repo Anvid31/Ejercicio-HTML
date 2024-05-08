@@ -1,0 +1,32 @@
+
+
+footer{
+    margin-top: 100px;
+    background-color:#405424;
+}
+
+header{
+    background-color: #405424;
+    color: white;
+}
+
+#title_sand{
+    margin: 10px;
+    color:brown;
+}
+
+#main{
+    font-size: x-large;
+}
+#lado{
+    background-color:#ffe4c4;
+}
+#chanwi{
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+}
+
+h1{
+    color: white;
+}
